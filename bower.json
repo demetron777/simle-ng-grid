@@ -1,0 +1,12 @@
+{
+  "name": "simleAgularGrid",
+  "homepage": "https://github.com/demetron777/simleAgularGrid",
+  "authors": [
+    "zhdm <zhdm@ciklum.com>"
+  ],
+  "description": "",
+  "main": "sag.js",
+  "moduleType": [],
+  "license": "GNU",
+  "private": true
+}
